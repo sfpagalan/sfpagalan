@@ -1,6 +1,6 @@
 #### ABOUT ME
 
-![My Doggo](tsukipic.jpeg)
+![My Doggo](tsukipic.jpg)
 
 My name is Sydney, my pronouns are She/Her.
 - Currently enrolled in a Software Developer program.
