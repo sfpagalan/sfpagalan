@@ -4,6 +4,7 @@
 
 I'm a creative full-stack developer with a knack for building scalable web applications and engaging user experiences. I thrive in environments that challenge me to learn and grow in the field of web technologies.
 
+**Tsuki's Visitors** <br> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sfpagalan.sfpagalan) <br>
 <img src="tsukipic.jpg" alt="My Doggo" width="400" height="400"/>
 
 ### Just a bit about myself:
