@@ -1,5 +1,5 @@
 # ABOUT ME 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_sfpagalan=page.id)
 
 ## 👋 Hi there! I'm Sydney
 
