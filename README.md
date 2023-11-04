@@ -1,5 +1,3 @@
-# ABOUT ME 
-
 ## 👋 Hi there! I'm Sydney
 
 I'm a creative full-stack developer with a knack for building scalable web applications and engaging user experiences. I thrive in environments that challenge me to learn and grow in the field of web technologies.
@@ -7,7 +5,7 @@ I'm a creative full-stack developer with a knack for building scalable web appli
 **Tsuki's Visitors** <br> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sfpagalan.sfpagalan) <br>
 <img src="tsukipic.jpg" alt="My Doggo" width="400" height="400"/>
 
-### Just a bit about myself:
+## Just a bit about myself:
 
 - **Pronouns**: She/Her
 - **Bilingual**: Tagalog
@@ -22,6 +20,9 @@ Feel free to reach out if you want to chat about tech, anime, or share pet paren
 
 ## Goals
 I'm on a continuous quest for knowledge, aiming to refine my skills in full-stack development and to explore new technologies. My objective is to contribute to projects that make a significant impact, enhance user engagement, and push the boundaries of what's possible on the web.
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sfpagalan)
+
 
 ## Projects
 
