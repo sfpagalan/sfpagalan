@@ -1,12 +1,10 @@
 # ABOUT ME 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sfpagalan.sfpagalan)
-
 ## 👋 Hi there! I'm Sydney
 
 I'm a creative full-stack developer with a knack for building scalable web applications and engaging user experiences. I thrive in environments that challenge me to learn and grow in the field of web technologies.
 
-![My Doggo](tsukipic.jpg)
+<img src="tsukipic.jpg" alt="My Doggo" width="400" height="400"/>
 
 ### Just a bit about myself:
 
@@ -21,7 +19,7 @@ I'm a creative full-stack developer with a knack for building scalable web appli
 
 Feel free to reach out if you want to chat about tech, anime, or share pet parenting tips!
 
-## My Goals
+## Goals
 I'm on a continuous quest for knowledge, aiming to refine my skills in full-stack development and to explore new technologies. My objective is to contribute to projects that make a significant impact, enhance user engagement, and push the boundaries of what's possible on the web.
 
 ## Projects
@@ -57,6 +55,10 @@ I'm on a continuous quest for knowledge, aiming to refine my skills in full-stac
 
 ### Markup & Templating
 - **Markdown**: Documentation and READMEs
+
+## GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sfpagalan&theme=dark)](https://git.io/streak-stats)<br>[source](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Let's Connect
 I'm always open to discussing new opportunities, collaborations, or simply exchanging ideas. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sfpagalan/) or send me an email at [Email](sfpagalan@gmail.com).
