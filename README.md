@@ -24,37 +24,37 @@ I'm on a continuous quest for knowledge, aiming to refine my skills in full-stac
 
 ## Projects
 
-- [Quizzard Wizard](https://github.com/Code-Fellow-Quizzards/quizzard-wizard)
+- [**Quizzard Wizard**](https://github.com/Code-Fellow-Quizzards/quizzard-wizard)
   - Quiz Wiz is a captivating web application offering users an exciting array of quizzes across diverse subjects, fostering knowledge and enjoyment.
- - [Gemsy](https://github.com/301-Team-2/gemsy)
+ - [**Gemsy**](https://github.com/301-Team-2/gemsy)
    - A web application designed to help discover unique ideas, including hidden gem restaurants and activities in their local area or travel destinations.
- - [Horned Beasts](https://github.com/sfpagalan/horned-beast)
+ - [**Horned Beasts**](https://github.com/sfpagalan/horned-beast)
    - "Horned Beasts" is a captivating web project featuring a diverse collection of horned creatures. Users can explore an array of horned beings showcased on the page. By simply clicking on a creature, visitors can increment its favorites and view it in a detailed modal view.
- - [Warmseat](https://github.com/orgs/Warmseat/repositories)
+ - [**Warmseat**](https://github.com/orgs/Warmseat/repositories)
    - This project aims to create a platform where users can save YouTube video URLs and query video transcripts. Built using a React frontend and a Node.js backend, the application offers features like saving video URLs, querying saved video transcripts, and receiving notifications for new transcripts.
- - [KamiQuest](https://github.com/sfpagalan/KamiQuest)
+ - [**KamiQuest**](https://github.com/sfpagalan/KamiQuest)
    - KamiQuest is a digital playground for storytelling, a tool that spins tales with the user's input, forging narratives from choice and chance. Imagine a sandbox where characters and destinies are crafted with simple clicks and selections. It's a web-based app, a modern-day choose-your-own-adventure, but with a twist—each decision leads to a unique story segment, penned not by the user, but by the machine's silent musings.
    - An interactive storytelling app that draws inspiration from Japanese visual novel games, giving users the pen to write the destinies of their own unique characters.
 
 ## Technical Skills
 
 ### Programming Languages & Frameworks
-- **JavaScript/ES6+**: React, Node.js, Express.js, Mongoose
-- **HTML/CSS**: Responsive Design, Bootstrap
-- **Database**: MongoDB, SQL, DynamoDB
-- **Mobile Development**: React Native
+- JavaScript/ES6+: *React, Node.js, Express.js, Mongoose*
+- HTML/CSS: *Responsive Design, Bootstrap*
+- Database: *MongoDB, SQL, DynamoDB*
+- Mobile Development: *React Native*
 
 ### Tools & Technologies
-- **Version Control**: Git, GitHub
-- **IDE**: Visual Studio Code
-- **API Development**: RESTful APIs, Auth0, Basic Authentication, Bearer Authentication
-- **Testing Frameworks**: Jest, Supertest
-- **Deployment & Hosting**: Netlify, Render, AWS Services
-- **Real-time Communication**: Socket.io
-- **Project Management & Collaboration**: Trello
+- Version Control: *Git, GitHub*
+- IDE: *Visual Studio Code*
+- API Development: *RESTful APIs, Auth0, Basic Authentication, Bearer Authentication*
+- Testing Frameworks: *Jest, Supertest*
+- Deployment & Hosting: *Netlify, Render, AWS Services*
+- Real-time Communication: *Socket.io*
+- Project Management & Collaboration: *Trello*
 
 ### Markup & Templating
-- **Markdown**: Documentation and READMEs
+- Markdown: *Documentation and READMEs*
 
 ## GitHub Streak
 
