@@ -17,7 +17,7 @@ I'm a creative full-stack developer with a knack for building scalable web appli
   - 📺 **Anime Aficionado**: An ardent admirer of Japanese culture, always ready to engage in animated discussions about the intricate world of Anime.
   - 📚 **Avid Reader**: From the realms of Manga to the expanses of Manhwa and Manhua, my appetite for reading is insatiable.
   - 🎮 **Gamer**: While the tales of Webtoons now captivate most of my time, I still dabble in the strategic plays of Mobile Legends and Call of Duty.
-- **Pawternity**: Proud PAWrent to 7 curious cats 🐾, including 3 adorable new litters, and one loyal Doggo! 
+- **Pawternity**: Proud PAWrent to 4 curious cats 🐾 and one loyal Doggo! Unfortunately, my eldest cat went missing on October and I'm still looking for her.
 
 Feel free to reach out if you want to chat about tech, anime, or share pet parenting tips!
 
